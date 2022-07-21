@@ -9,7 +9,7 @@ import javax.validation.constraints.Size;
 @Schema(description = " Library Informacion")
 @Data
 @Entity
-@Table(name = "librarie")
+@Table(name = "library")
 public class Library {
 
     @Id
